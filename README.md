@@ -1,4 +1,4 @@
-#### Make sure this is set in vscode settings.json
+#### Make sure this is set in vscode settings.json if you're getting import errors
 
 ![settings.json](/images/001.png)
 
