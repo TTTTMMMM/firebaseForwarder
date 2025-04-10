@@ -4,4 +4,4 @@
 
 #### Look at last measurment in db by visiting this URL:
 
-![Latest measurement](/images/02.png)
+![Latest measurement](/images/03.png)
